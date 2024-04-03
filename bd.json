@@ -1,0 +1,25 @@
+{
+    "Lugares":[
+        
+        {
+            "Id":1,
+            "Ciudad" : "Lima",
+            "Descripcion" : "Lima, la capital de Perú, es una ciudad vibrante y multicultural situada en la costa del Pacífico. Reconocida por su rica historia colonial, su deliciosa gastronomía y su bullicioso estilo de vida, Lima es un destino fascinante para explorar."
+        },
+        {
+            "Id":2,
+            "Ciudad" : "Ica",
+            "Descripcion" : "Ica, ubicada en el sur de Perú, es conocida por su desierto costero, oasis y viñedos. Es un destino popular para la aventura en dunas, paseos en buggy y degustaciones de vino pisco, el licor nacional del país."
+        },
+        {
+            "Id":3,
+            "Ciudad" : "Piura",
+            "Descripcion" :"Piura, en el norte de Perú, es una ciudad soleada y acogedora con playas impresionantes como Máncora. Famosa por su gastronomía, artesanías y festivales tradicionales, Piura es un destino encantador para los amantes de la cultura y la naturaleza."
+        },
+        {
+            "Id":4,
+            "Ciudad" : "Arequipa",
+            "Descripcion" : "Arequipa, la 'Ciudad Blanca' de Perú, es famosa por su impresionante arquitectura colonial construida en piedra volcánica blanca. Rodeada por tres imponentes volcanes y enriquecida por una rica herencia cultural, Arequipa ofrece una experiencia única que combina historia, belleza natural y deliciosa gastronomía."
+        }
+    ]        
+}
